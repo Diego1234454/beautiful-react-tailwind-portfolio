@@ -1,5 +1,5 @@
 import {Facebook, Instagram, Linkedin, Mail, MapPin, Phone, Send, Twitter} from "lucide-react";
-import {cn} from "@/libs/utils.js";
+import {cn} from "@/lib/utils.js";
 import {useToast} from "@/hooks/use-toast.js";
 import {useState} from "react";
 

@@ -1,5 +1,5 @@
 import {useState} from "react";
-import {cn} from "@/libs/utils.js";
+import {cn} from "@/lib/utils.js";
 
 const skills = [
 

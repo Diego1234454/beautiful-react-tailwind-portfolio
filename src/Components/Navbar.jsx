@@ -1,4 +1,4 @@
-import {cn} from "@/libs/utils.js";
+import {cn} from "@/lib/utils.js";
 import { Menu, X } from "lucide-react";
 import { useEffect, useState } from "react";
 
